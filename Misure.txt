@@ -1,0 +1,11 @@
+Resistenze (range 1 kOhm):
+    0,47172 kOhm
+    0,17979 kOhm
+    0,21968 kOhm
+
+Induttanza 47 mH:
+    0,203 kOhm (Range 1 kOhm)
+    46,79 mH (Range 100 mH)
+
+Condensatore 100 nF:
+    0,070 uF (range 1uF)

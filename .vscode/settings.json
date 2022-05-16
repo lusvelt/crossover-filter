@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "Analyze.C": "cpp",
+        "Noise.C": "cpp",
+        "ios": "cpp"
+    }
+}

@@ -1,0 +1,28 @@
+Obiettivi:
+1. Campionare V_W e V_T su un segnale V_S che è fatto dalla somma di una componente a bassa frequenza e una componente ad alta frequenza in modo da apprezzare il funzionamento del filtro
+2. Fare uno sweep di frequenza crescente e misurare ampiezza e fase di V_W e V_T per ogni frequenza
+
+Misure:
+1. Misurare le due resistenze (nominalmente uguali) R1 e R2
+2. Misurare la capacità del condensatore C
+3. Misurare l'induttanza L
+4. Misurare il fondo di rumore per un dato intervallo di tempo
+5. Misurare il fondo di rumore con lo sweep di frequenze
+
+Risultati quantitativi:
+1. Frequenza di crossover
+2. Fasi di V_T e V_W alla frequenza di crossover
+
+Domande:
+1. Come sappiamo il valore della resistenza interna del generatore? 50 ohm. E la rispettiva incertezza? Nulla (?). In alternativa, possiamo "simulare" una resistenza interna mettendo una resistenza reale insieme al generatore di valore uguale alle altre due? Non serve.
+2. Nello studio del circuito, abbiamo assunto che le due resistenze R_T e R_W fossero uguali. Come ci comportiamo col circuito reale, visto che i valori differiscono anche se di poco? Usiamo le previsioni dedotte dall'assunzione e le confrontiamo con i valori misurati.
+3. Come calcoliamo la frequenza di crossover? Dal fit delle ampiezze in funzione delle frequenze? Sia così che con le previsioni teoriche (approssimate).
+4. Qual è l'incertezza sulle misure delle resistenze, della capacità e dell'induttanza? Vedi foglio specifiche Elvis.
+
+Grafico Ampiezze (ideale): https://www.desmos.com/calculator/l9ivquj4w4?lang=it
+
+Errore:
+- FGEN con onda quadra, rumore
+- Sinusoide a frequenza fissa: acquisizione un minuto. Ampiezza in funzione della frequenza.
+- Per la fase, triggerare e vedere la fase
+

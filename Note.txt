@@ -26,3 +26,7 @@ Errore:
 - Sinusoide a frequenza fissa: acquisizione un minuto. Ampiezza in funzione della frequenza.
 - Per la fase, triggerare e vedere la fase
 
+
+Domande:
+- 
+

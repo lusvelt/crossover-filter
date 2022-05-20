@@ -1,7 +1,6 @@
 Resistenze (range 1 kOhm):
     0,47172 kOhm
-    0,17979 kOhm
-    0,21968 kOhm
+    0,26927 kOhms
 
 Induttanza 47 mH:
     0,203 kOhm (Range 1 kOhm)
